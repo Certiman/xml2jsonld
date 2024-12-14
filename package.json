@@ -1,9 +1,9 @@
 {
-    "name": "@make-everything-simple/npm-template-typescript",
-    "description": "Typescript template to build npm package",
-    "version": "1.0.4",
-    "author": "make-everything-simple",
-    "bugs": "https://github.com/make-everything-simple/npm-template-typescript/issues",
+    "name": "@certiman/xml2jsonld",
+    "description": "Convert and post-process XML files into JSON LD",
+    "version": "0.0.1",
+    "author": "Certiman",
+    "bugs": "https://github.com/certiman/xml2jsonld/issues",
     "devDependencies": {
         "@tsconfig/node18": "^18.2.2",
         "@types/jest": "^29.5.11",
@@ -32,7 +32,7 @@
     "files": [
         "dist"
     ],
-    "homepage": "https://github.com/make-everything-simple/npm-template-typescript#readme",
+    "homepage": "https://github.com/certiman/xml2jsonld#readme",
     "keywords": [
         "npm",
         "npm-typescript",
