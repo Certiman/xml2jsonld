@@ -1,0 +1,17 @@
+{
+    "dct": "http://purl.org/dc/terms/",
+    "era": "http://data.europa.eu/949/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "geosparql": "http://www.opengis.net/ont/geosparql#",
+    "gr": "http://purl.org/goodrelations/v1#",
+    "locn": "http://w3.org/ns/locn#",
+    "org": "https://www.w3.org/ns/org#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/",
+    "sh": "http://www.w3.org/ns/shacl#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "vpa": "http://data.europa.eu/949/vpa/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
