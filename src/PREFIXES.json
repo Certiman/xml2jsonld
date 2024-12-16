@@ -12,6 +12,12 @@
     "schema": "http://schema.org/",
     "sh": "http://www.w3.org/ns/shacl#",
     "skos": "http://www.w3.org/2004/02/skos/core#",
-    "vpa": "http://data.europa.eu/949/vpa/",
+    "time": "https://www.w3.org/TR/owl-time/",
+    "unit": "http://qudt.org/vocab/unit/",
+    "vann": "http://purl.org/vocab/vann/",
+    "voaf": "http://purl.org/vocommons/voaf#",
+    "vpa": "http://w3id.org/vpa/",
+    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#",
+    "xml": "http://www.w3.org/XML/1998/namespace",
     "xsd": "http://www.w3.org/2001/XMLSchema#"
   }
